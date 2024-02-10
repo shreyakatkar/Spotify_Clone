@@ -4,8 +4,8 @@
 
 ## Technologies used :
 
-1 - HTML 
-2 - CSS
+1. HTML 
+2. CSS
 
 ### Link :
 URL - https://shreyakatkar.github.io/Spotify-Clone/
